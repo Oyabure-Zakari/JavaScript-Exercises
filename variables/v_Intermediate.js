@@ -8,7 +8,6 @@ const radius = 7;
 // Your code here
 const radiusSquare = Math.pow(radius, 2);
 const area = Math.floor(Math.PI * radiusSquare);
-// console.log(area);
 
 // 2) Reassigning Variables, Given a string name = "John" and a number age = 25, reassign both variables to new values of different data types and log their values and types using typeof.
 //Example:
